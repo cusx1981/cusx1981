@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cusx1981
+- 👀 I’m interested in Web Development and Data Science
+- 🌱 I’m currently learning Javascript
